@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Roullet.unity
+    guid: 642d39b3431110c4786bf0a1f437a155
+  - enabled: 1
+    path: Assets/Scenes/MellstroyMain.unity
+    guid: 4d8947d3b3b7c464f8b0feab7a2158b9
+  - enabled: 1
+    path: Assets/slots/Scenes/slotsPref.unity
+    guid: 7579c990a6dacbc4390fe7b9e1874268
+  - enabled: 0
+    path: Assets/Scenes/RouletteScene.unity
+    guid: d0df29b3d49811849923f40ddff551e8
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
